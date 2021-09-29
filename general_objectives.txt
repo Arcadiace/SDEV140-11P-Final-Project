@@ -1,0 +1,6 @@
+1) End goal is to have three windows
+    a) Main Selection Window
+    b) Text Entry Window (Name, Email, Address)
+    c) Final label display, grand total, and entry confirmation
+2) Add / remove item from selection by pressing same button - indicated by color
+3) ? Include Reset button for all windows - clears all fields and returns user to first window for reselection
